@@ -171,6 +171,20 @@
     }
 
 
+    .faq-section {
+        position: relative;
+    }
+    .faq-mobile-shape {
+        height: 1041px;
+        opacity: 0.3;
+        position: absolute;
+        top: 50%;
+        right: 0;
+        width: 1140px;
+        z-index: -1;
+        max-width: unset;
+        transform: translate(0,-50%);
+    }
 
 }
 
