@@ -1,0 +1,197 @@
+
+
+@media (max-width: 1399px) {
+ 
+}
+
+
+@media (max-width: 1199px) {
+ 
+}
+
+
+@media (max-width: 991px) {
+    .hero-image_outer {
+        justify-content: center;
+    }
+
+    .hero-section {
+        padding: 140px 0 30px;
+        position: relative;
+    }
+    .fin__pai {
+        margin-bottom: 30px;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .header-logo {
+        display: block;
+        width: 190px;
+    }
+    .header-in {
+        padding: 21px 0;
+    }
+    .hero__image {
+        width: 80%;
+    }
+    .hero__content .h1 {
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+    .hero__content p {
+        font-size: 14px;
+    }
+
+    .hero__mbl-bg-shapge {
+        height: 1041px;
+        margin-top: -0px;
+        opacity: 0.2;
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 1140px;
+        z-index: -1;
+        max-width: unset;
+    }
+    .hero-section {
+        padding: 95px 0 20px;
+    }
+
+    .f-section {
+        padding: 30px 0;
+    }
+    .f-card {
+        padding: 22px 18px;
+    }
+    .f-cards__wrap {
+        --bs-gutter-x: 14px;
+    }
+
+    .h2 {
+        font-size: 32px;
+        margin-bottom: 12px;
+    }
+    .sec-title {
+        margin-bottom: 32px;
+    }
+    .fin-section {
+        padding: 70px 0 30px;
+    }
+    .fin_t-card h3 strong {
+        font-size: 26px;
+    }
+
+    .fin_t-card {
+        padding: 18px 18px 20px;
+    }
+    .fin_t-card p {
+        font-size: 14px;
+    }
+    .fin_t-card h3 {
+        font-size: 20px;
+        margin-bottom: 12px;
+        gap: 14px;
+        line-height: 142%;
+    }
+    .fin-bg-shape {
+        height: 1041px;
+        opacity: 0.2;
+        position: absolute;
+        bottom: 400px;
+        right: 0;
+        top: unset;
+        width: 1140px;
+        z-index: -1;
+        max-width: unset;
+    }
+
+    .fin__statics {
+        padding: 18px;
+    }
+    .fin__statics h4 {
+        margin-bottom: 15px;
+    }
+    .fin__statics_s-wrap {
+        --bs-gutter-x: 15px;
+    }
+    .fin__b h4 {
+        font-size: 16px;
+    }
+    .fin__b {
+        margin-top: 20px;
+    }
+
+    .tech-sec-bg-shape {
+        display: none;
+    }
+    .tech-section {
+        padding: 40px 0 30px;
+    }
+    .faq-section {
+        padding: 20px 0 30px;
+    }
+
+    .faq-single__title h3 {
+        font-size: 22px;
+    }
+    .faq-single__body p {
+        font-size: 14px;
+    }
+    .faq-single {
+        padding: 21px 17px;
+    }
+    .cta-section {
+        padding: 40px 0 55px;
+    }
+
+    .cta__buttons {
+        gap: 18px;
+        flex-direction: column;
+    }
+    .cta__buttons .button {
+        width: 100%;
+    }
+    .cta__card__title .h2 {
+        font-size: 26px;
+    }
+    .cta__card {
+        padding: 40px 20px 50px;
+    }
+
+    .footer__top {
+        padding: 40px 0 25px;
+    }
+    .footer-bottom {
+        padding: 18px 0;
+        display: flex;
+        justify-content: start;
+        text-align: left;
+    }
+
+
+
+}
+
+
+@media (max-width: 575px) {
+    .container {
+        padding: 0 22px;
+    }
+}
+
+
+@media (max-width: 370px) {
+    .container {
+        padding: 0 12px;
+    }
+
+    .hero__content .h1 {
+        font-size: 37px;
+    }
+
+    .h2 {
+        font-size: 29px;
+    }
+}
